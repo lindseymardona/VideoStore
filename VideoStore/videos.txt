@@ -1,0 +1,26 @@
+Galaxy Quest
+908 1 0 5480
+The Grapes of Wrath
+233 1 0 5239
+Half Baked
+556 1 1 5334
+Heaven Can Wait
+412 0 0 0
+Pennies From Heaven
+219 0 0 0
+Rescuers Down Under
+413 1 1 5239
+Sound of Music
+945 1 0 5595
+Beauty and the Beast
+491 0 0 0
+Aladdin
+492 1 0 5119
+East of Eden
+890 1 1 5102
+Giant
+892 1 1 5102
+Star Trek: First Contact
+500 0 0 0
+Star Trek: Generations
+502 0 0 0

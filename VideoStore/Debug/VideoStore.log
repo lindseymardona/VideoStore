@@ -1,0 +1,16 @@
+﻿  VideoStore.cpp
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(522,48): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(526,47): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(713,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(717,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(748,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(752,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(875,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(882,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(910,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(914,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(954,32): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(958,31): warning C4018: '>': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(984,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\linds\source\repos\VideoStore\VideoStore\VideoStore.cpp(1018,23): warning C4018: '<': signed/unsigned mismatch
+  VideoStore.vcxproj -> C:\Users\linds\source\repos\VideoStore\Debug\VideoStore.exe
